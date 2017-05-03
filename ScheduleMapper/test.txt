@@ -1,0 +1,119 @@
+INSERT INTO [dbo].[Coordinate]
+	([Name],[Abbreviation],[Latitude],[Longitude])
+	VALUES
+	(
+	'Auburn Science & Engineering Center',
+		'ASEC',
+		41.075630,
+		-81.513820
+	),(
+	'Ayer Hall',
+		'AYER',
+		41.076290,
+		-81.513190
+	),(
+	'Bierce Library',
+		'LIB',
+		41.076940,
+		-81.510230
+	),(
+	'Buckingham Center for Continuing Education',
+		'BCCE',
+		41.077260,
+		-81.516670
+	),(
+	'College of Arts & Science Building',
+		'CAS',
+		41.077790,
+		-81.510560
+	),(
+	'College of Business Administration Building',
+		'CBA',
+		41.077590,
+		-81.517690
+	),(
+	'Crouse Hall',
+		'CRH',
+		41.076310,
+		-81.512230
+	),(
+	'Galucci Hall',
+		'GALU',
+		41.072940,
+		-81.516640
+	),(
+	'Goodyear Polymer Science Building',
+		'GDYR',
+		41.076800,
+		-81.514570
+	),(
+	'Guzzetta Hall',
+		'GH',
+		41.077680,
+		-81.514100
+	),(
+	'InfoCision Stadium',
+		'SFIS',
+		41.072590,
+		-81.508360
+	),(
+	'James A. Rhodes Physical Education Building',
+		'JAR',
+		41.075880,
+		-81.508740
+	),(
+	'Knight Chemical Laboratory',
+		'KNCL',
+		41.076140,
+		-81.515180
+	),(
+	'Kolbe Hall',
+		'KO',
+		41.076370,
+		-81.510250
+	),(
+	'Leigh Hall',
+		'LH',
+		41.076250,
+		-81.510730
+	),(
+	'Mary Gladwin Hall',
+		'MGH',
+		41.075520,
+		-81.515030
+	),(
+	'Olin Hall',
+		'OLIN',
+		41.077010,
+		-81.508880
+	),(
+	'Polymer Engineering Academic Center',
+		'PEAC',
+		41.079490,
+		-81.513680
+	),(
+	'Polsky Building',
+		'POL',
+		41.078900,
+		-81.519720
+	),(
+	'Schrank Hall North',
+		'SHN',
+		41.075100,
+		-81.513770
+	),(
+	'Schrank Hall South',
+		'SHS',
+		41.074320,
+		-81.513970
+	),(
+	'Whitby Hall',
+		'WHIT',
+		41.076300,
+		-81.514560
+	),(
+	'Zook Hall',
+		'ZOOK',
+		41.076420,
+		-81.511520
+	)

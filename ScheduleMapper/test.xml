@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary></summary>
+  <leg>
+   <step>
+    <travel_mode>WALKING</travel_mode>
+    <start_location>
+     <lat>41.0756269</lat>
+     <lng>-81.5136689</lng>
+    </start_location>
+    <end_location>
+     <lat>41.0759876</lat>
+     <lng>-81.5131876</lng>
+    </end_location>
+    <polyline>
+     <points>uquyFlsopN}@AA?AAAAAA?C?c@?MAa@</points>
+    </polyline>
+    <duration>
+     <value>83</value>
+     <text>1 min</text>
+    </duration>
+    <html_instructions>Head &lt;b&gt;north&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>77</value>
+     <text>253 ft</text>
+    </distance>
+   </step>
+   <step>
+    <travel_mode>WALKING</travel_mode>
+    <start_location>
+     <lat>41.0759876</lat>
+     <lng>-81.5131876</lng>
+    </start_location>
+    <end_location>
+     <lat>41.0761731</lat>
+     <lng>-81.5131911</lng>
+    </end_location>
+    <polyline>
+     <points>}suyFlpopNQ?Q?</points>
+    </polyline>
+    <duration>
+     <value>17</value>
+     <text>1 min</text>
+    </duration>
+    <html_instructions>Turn &lt;b&gt;left&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>21</value>
+     <text>69 ft</text>
+    </distance>
+    <maneuver>turn-left</maneuver>
+   </step>
+   <duration>
+    <value>100</value>
+    <text>2 mins</text>
+   </duration>
+   <distance>
+    <value>98</value>
+    <text>322 ft</text>
+   </distance>
+   <start_location>
+    <lat>41.0756269</lat>
+    <lng>-81.5136689</lng>
+   </start_location>
+   <end_location>
+    <lat>41.0761731</lat>
+    <lng>-81.5131911</lng>
+   </end_location>
+   <start_address>208 Carroll St, Akron, OH 44325, USA</start_address>
+   <end_address>Ayer Hall, Akron, OH 44304, USA</end_address>
+  </leg>
+  <copyrights>Map data ©2017 Google</copyrights>
+  <overview_polyline>
+   <points>uquyFlsopN_AACCAw@Aa@Q?Q?</points>
+  </overview_polyline>
+  <warning>Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths.</warning>
+  <bounds>
+   <southwest>
+    <lat>41.0756269</lat>
+    <lng>-81.5136689</lng>
+   </southwest>
+   <northeast>
+    <lat>41.0761731</lat>
+    <lng>-81.5131876</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>street_address</type>
+  <place_id>ChIJo8qMltgpMYgR6OTOj-skwis</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>premise</type>
+  <place_id>ChIJU-urVNgpMYgRY70BOtm_zxE</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>
