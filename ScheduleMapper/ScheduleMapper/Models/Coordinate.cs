@@ -7,7 +7,7 @@ namespace ScheduleMapper.Models
     using System.Data.Entity.Spatial;
 
     [Table("Coordinate")]
-    public partial class Coordinate
+    public partial class Coordinate : ModelBase
     {
         [Key]
         public long ID { get; set; }
@@ -24,7 +24,6 @@ namespace ScheduleMapper.Models
 
         public override string ToString()
         {
-            //return base.ToString();
             return Latitude + "," + Longitude;
         }
     }
